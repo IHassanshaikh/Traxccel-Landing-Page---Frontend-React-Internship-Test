@@ -19,6 +19,6 @@ CSS (or any other styling method you used, like Tailwind or SCSS)
 GSAP/Framer Motion (for animations)
 Feel free to clone the repository and explore the codebase! 🚀
 
-<img src="Tr" alt="Screenshot of Spotify homepage clone" width="600">
+<img src="traxcel pc.PNG" alt="Traxccel" width="600">
 
 
